@@ -2,7 +2,7 @@
 const jedi = [];
 
 // 1b
-jedi [jedi.length] = `Luke`;
+jedi [0] = `Luke`;
 
 // 1c
 jedi.push(`Obi-Wan Kenobi`);
